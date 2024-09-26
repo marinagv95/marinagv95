@@ -20,5 +20,5 @@ Sou estudante de **Ciência da Computação** e apaixonada por resolver problema
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marinagv95&layout=compact&theme=radical)
 
 ## 🌟 Projetos em Destaque
-- [Vendora](https://github.com/marinagv95/vendora) – Sistema de controle de estoque para loja de joias.
-- [Locadora de Veículos](https://github.com/marinagv95/locadora-veiculos) – Aplicação para locação de veículos com princípios SOLID.
+- [Contact List](https://github.com/marinagv95/Contact_List) – Aplicação para gerenciar contatos, organizada por turmas e notas.
+- [Locadora de Veículos](https://github.com/allanaavila/locadora_veiculos) – Aplicação para locação de veículos com princípios SOLID.
