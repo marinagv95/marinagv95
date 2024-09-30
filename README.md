@@ -31,4 +31,4 @@ Sou estudante de **Ciência da Computação** e apaixonada por resolver problema
 
 ## 🌟 Projetos em Destaque
 - [Contact List](https://github.com/marinagv95/Contact_List) – Aplicação baseada em uma agenda de contatos, organizada por turmas e notas.
-- [Locadora de Veículos](https://github.com/allanaavila/locadora_veiculos](https://github.com/marinagv95/locadora_veiculos) – Aplicação para locação de veículos com princípios SOLID.
+- [Locadora de Veículos](https://github.com/marinagv95/locadora_veiculos) – Aplicação para locação de veículos com princípios SOLID.
